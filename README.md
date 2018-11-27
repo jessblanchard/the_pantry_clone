@@ -1,4 +1,2 @@
-# the_pantry
-# the_pantry_clone
+First commit
 Github Checkpoint Assignment
-# the_pantry_clone
